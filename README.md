@@ -1,8 +1,6 @@
-# Flappy Bird Clone
+# Flappy 
 
 A Flappy Bird game built with Python and Pygame.
-
----
 
 ## About
 This project is a faithful recreation of the classic Flappy Bird game, designed for learning and fun. It demonstrates the use of Pygame for 2D game development, including window resizing, asset management, and smooth rendering.
