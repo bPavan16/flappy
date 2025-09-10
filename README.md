@@ -46,6 +46,7 @@ All game assets are located in `game/assets/` and are custom-made for this proje
 
 ## License
 This project is under the MIT License. See the `LICENSE` file for details.
+
 ---
 
 > GitHub: [bPavan16/flappy](https://github.com/bPavan16/flappy)
